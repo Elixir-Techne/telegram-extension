@@ -1,4 +1,4 @@
-# Chrome Extension
+# Chrome Telegram Web Extension
 
 It is used to change chat display title for telegram web.
 

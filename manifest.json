@@ -1,0 +1,13 @@
+{
+  "name": "Telegram extension",
+  "description": "Change the name of displayed contacts on screen",
+  "version": "0.1",
+  "minimum_chrome_version": "16.0.884",
+  "permissions": ["activeTab"],
+  "browser_action": {
+    "default_popup": "popup.html",
+    "default_icon": "./icons/icon128.png"
+  },
+  "icons": { "128": "./icons/icon128.png" },
+  "manifest_version": 2
+}
