@@ -1,6 +1,6 @@
 # Telegram Web chrome extension
 
-It is used to change chat display title for telegram web.
+This extension is used to change chat display title for telegram web.
 
 ## Installation
 
